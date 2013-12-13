@@ -38,6 +38,16 @@
                ReferencedContainer = "container:TryCI.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "992A1C04185AFDDA0022486E"
+               BuildableName = "TryCI XC Tests.xctest"
+               BlueprintName = "TryCI XC Tests"
+               ReferencedContainer = "container:TryCI.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
